@@ -14,10 +14,8 @@ class Program {
             }
         }
      }
-    static void Loop(int x) {
-        int n = 0;
-        int r = 0;
-        for(int row = 0 ; row <= x ; row++) {
+    static void Loop(int number) {
+        for(int row = 0 ; row <= number ; row++) {
             for(int col = 0 ; col <= row ; col++) {
                 Console.Write("{0} " , CNR(row,col));
             }
@@ -37,7 +35,7 @@ class Program {
         Factorial(nr);
 
         double PrintCNR1 = Factorial(n);
-        double PrintCNR2 = Factorial(n-r) * Factorial(r);
+        double PrintCNR2 = Factorial(nr) * Factorial(r);
         double PrintCNR = PrintCNR1 / PrintCNR2;
         return (PrintCNR);
     }

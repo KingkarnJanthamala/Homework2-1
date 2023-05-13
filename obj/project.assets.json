@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kingkarn.jant\\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\\Documents\\Homework 65\\Homework Term2\\MDT112\\Homework (1)\\Homework (1).csproj",
+      "projectUniqueName": "C:\\Users\\kingkarn.jant\\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\\Documents\\Homework 65\\Homework Term2\\MDT112\\Homework2-1\\Homework (1).csproj",
       "projectName": "Homework (1)",
-      "projectPath": "C:\\Users\\kingkarn.jant\\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\\Documents\\Homework 65\\Homework Term2\\MDT112\\Homework (1)\\Homework (1).csproj",
+      "projectPath": "C:\\Users\\kingkarn.jant\\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\\Documents\\Homework 65\\Homework Term2\\MDT112\\Homework2-1\\Homework (1).csproj",
       "packagesPath": "C:\\Users\\kingkarn.jant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kingkarn.jant\\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\\Documents\\Homework 65\\Homework Term2\\MDT112\\Homework (1)\\obj\\",
+      "outputPath": "C:\\Users\\kingkarn.jant\\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\\Documents\\Homework 65\\Homework Term2\\MDT112\\Homework2-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kingkarn.jant\\AppData\\Roaming\\NuGet\\NuGet.Config"
